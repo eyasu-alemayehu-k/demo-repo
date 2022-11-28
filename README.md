@@ -8,4 +8,4 @@ description.
 
 ## local devlopment
 
-1. Open index.htm in your browser.
+1. Open index.htm in your browsers.
